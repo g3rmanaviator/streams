@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="weather-channel" tvg-name="Weather Channel" tvg-logo="" group-title="Live",Weather Channel
+http://mediamtx-proxy:8888/live/weather-channel/index.m3u8
